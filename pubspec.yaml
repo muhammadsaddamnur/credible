@@ -47,7 +47,7 @@ dependencies:
       ref: fix/23/uniform-random
 
   didkit:
-    git: https://github.com/spruceid/didkit
+    git: https://github.com/spruceid/didkit.git
 #     path: ../didkit/lib/flutter
 
   package_info_plus: ^1.4.2
