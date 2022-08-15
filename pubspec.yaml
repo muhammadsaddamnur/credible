@@ -48,6 +48,7 @@ dependencies:
 
   didkit:
     git: https://github.com/spruceid/didkit.git
+    ref: didkit/tree/main/lib/flutter
 #     path: ../didkit/lib/flutter
 
   package_info_plus: ^1.4.2
